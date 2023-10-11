@@ -17,6 +17,8 @@ https://github.com/Seth-Scott/jetson_nano_frigateNVR
 this could be achieved easier via esphome but I wanted more granular control through plain arduino code to expand later, if you're curious:
 https://esphome.io/
 
+don't forget ch340 driver to allow you to use the d1 mini with arduino IDE:
+https://www.wemos.cc/en/latest/ch340_driver.html
 */
 
 #include "credentials.h"
